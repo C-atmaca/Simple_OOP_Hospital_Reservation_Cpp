@@ -1,0 +1,4 @@
+Ahmet | Kasap | Psychology | 16 | Furkan Yavuz | 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muhammed | Atmaca | Nutrition and Dietetics | 17 | Melike Korkmaz | 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
